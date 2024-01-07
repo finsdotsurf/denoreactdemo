@@ -27,4 +27,4 @@ $ deno task build
 Currently there's a "papercut" for Deno users:
 
 - peer dependencies need to be referenced in `vite.config.js` - in this example
-  it is `react` and `react-dom` packages that need to be referenced.
+  it is `react` and `react-dom` packages that need to be referenced
